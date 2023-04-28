@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&family=Poppins:wght@400;500;700&display=swap');
+
+:root{
+  --cor-um:#ebecee;
+  --cor-dois:#ffffff;
+  --cor-tres:#eb9b00;
+  --cor-quatro: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+  --cor-cinco:#002f52;
+  --cor-seis:#000000;
+  --cor-sete:#474646;
+  --cor-oito:#f9f9f9;
+  --cor-nove:#858585;
+  --fonte-principal:"poppins";
+  --fonte-secundaria:"josefin sans";
+  
+}
+
+body{
+  background-color: var(--cor-um);
+  font-family: var(--fonte-principal);
+  font-size: 16px;
+  font-weight: 400;
+}
